@@ -1,4 +1,5 @@
 import { mount } from 'cypress/vue'
+import '../plugins/tailwind'
 
 declare global {
   namespace Cypress {
