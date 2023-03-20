@@ -1,6 +1,6 @@
-# Nuxt 3 Minimal Starter
+# Cypress Component Testing with Nuxt 3
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Repo to supplement my [blog post](https://codybontecou.com/cypress-component-testing-with-nuxt-3.html) that goes over setting up [Cypress Component Test Runner](https://docs.cypress.io/guides/component-testing/overview) with [Nuxt 3](https://nuxt.com/) and [TailwindCSS](https://tailwindcss.com/).
 
 ## Setup
 
@@ -24,19 +24,3 @@ Start the development server on http://localhost:3000
 ```bash
 npm run dev
 ```
-
-## Production
-
-Build the application for production:
-
-```bash
-npm run build
-```
-
-Locally preview production build:
-
-```bash
-npm run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
